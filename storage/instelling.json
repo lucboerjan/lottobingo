@@ -1,0 +1,38 @@
+{
+    "taal": "nl",
+    "talen": {
+        "nl": [
+            "Nederlands",
+            "afbeelding\/vlag\/nederland.gif"
+        ],
+        "en": [
+            "English",
+            "afbeelding\/vlag\/unitedkingdom.gif"
+        ]
+    },
+    "app": {
+        "favicon": "afbeelding\/app\/favicon.png",
+        "logo": "afbeelding\/app\/logo.png",
+        "lottobingo": "afbeelding\/app\/lottobingo.jpg",
+        "appurl": "https:\/\/lottobingo.ok29.online"
+    },
+    "paginering": {
+        "knoppen": 7,
+        "knoppenkeuzelijst": [
+            3,
+            5,
+            7,
+            9
+        ],
+        "aantalperpagina": 5,
+        "aantaltrekkingenperpagina": 8,
+        "aantalperpaginakeuzelijst": [
+            5,
+            10,
+            20,
+            30
+        ],
+        "aantaluitbetalingenperpagina": 11
+    },
+    "laatsteuitbetaling": "3984"
+}
